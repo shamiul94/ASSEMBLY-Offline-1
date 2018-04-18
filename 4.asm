@@ -8,7 +8,9 @@ MSG2 DB 'Enter 2nd Number:$'
 MSG3 DB  'You have entered:$' 
 MSG4 DB 'After swapping:$'
 
+
 .CODE 
+
 MAIN PROC  
 
 MOV AX, @DATA 
