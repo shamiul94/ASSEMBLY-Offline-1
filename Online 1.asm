@@ -25,7 +25,7 @@ main:
                
                
 
-    sub cx ,96
+    sub cx ,97
 
     mov ah , 9
    
