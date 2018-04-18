@@ -36,5 +36,5 @@ main:
 
     mov ax, 4Ch
     int 21h 
-    
+   main endp
 END main
